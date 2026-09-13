@@ -17,6 +17,7 @@ Backend project built as part of Week 2 of DecodeLabs program.
 ```bash
 npm install
 npm start
+```
 Server runs on `http://localhost:3000`
 
 ## Learning Outcomes
