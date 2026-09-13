@@ -1,25 +1,27 @@
 # DecodeLabs Week 2 - Backend Project
 
-This is my Week 2 backend project for **DecodeLabs**.
+Backend project built as part of Week 2 of DecodeLabs program.
 
-## What I Built
-- REST API using Node.js / Express
-- Connected with Database
-- CRUD operations for [tumne kya banaya - eg: User Auth / Todo App]
+## Features
+- RESTful API with Node.js and Express
+- Database integration 
+- CRUD operations
+- API testing with Postman
 
 ## Tech Stack
-- Node.js
-- Express.js
-- MongoDB / MySQL
-- Postman for API testing
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Postman, Git, GitHub
 
-## How to Run
-1. `npm install`
-2. `npm start`
-3. Server runs on `http://localhost:3000`
+## Installation & Usage
+```bash
+npm install
+npm start
+Server runs on `http://localhost:3000`
 
-## What I Learned
-Week 2 me mujhe backend routing, database connection aur API testing seekhne ko mila.
+## Learning Outcomes
+Gained hands-on experience in backend development, API design, database connectivity, and server-side logic.
 
 ---
-#DecodeLabs #BackendDevelopment #100DaysOfCode
+Built with ❤️ during DecodeLabs Week 2
+#DecodeLabs #BackendDevelopment #NodeJS
